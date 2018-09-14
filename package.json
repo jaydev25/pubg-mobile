@@ -1,6 +1,6 @@
 {
-  "name": "ionic-heroku",
-  "description": "Ionic Node.js Heroku app",
+  "name": "pubg-mobile-events",
+  "description": "PUBG Mobile Events",
   "version": "0.0.1",
   "private": true,
   "dependencies": {
